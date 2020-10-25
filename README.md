@@ -21,13 +21,50 @@
 
 由于文件是完整配置，建议按照博客或官网文档自定义一下，把多余的注释以及多余的提示段删除，另外为了方便提供了一张官方的颜色表图片，在`ColorTable`下，如果需要自定义颜色可以参考。
 
-# 4 自定义
-
-主要删除了：
+为了方便这里给出了笔者的优化后的配置文件，对于`GUI`/`tty`配置，删除了：
 
 - `ASDF`：多版本运行时管理器，显示`Java`、`PHP`版本就是利用这个做的
 - `nordvpn`
 - `vi mode`
+- `todo`
+- `taskwarrior`
+- `context`
+- `virtualenv`
+- `anaconda`
+- `pyenv`
+- `goenv`
+- `nodeenv`
+- `nvm`
+- `node_version`
+- `go_version`
+- `rust_version`
+- `dotnet_version`
+- `laravel_version`
+- `rb_env`
+- `java_version`
+- `rvm`
+- `fvm`
+- `luenv`
+- `jenv`
+- `plenv`
+- `phpenv`
+- `scalenv`
+- `haskell_stack`
+- `terraform`
+- `kubecontext`
+- `azure`
+- `gcloud`
+- `public_ip`
+- `vpn_ip`
+- `ip`
+- `proxy`
+
+另外简单地调节了一下颜色，效果如图：
+
+![](https://img-blog.csdnimg.cn/20201025184301309.png)
+
+![](https://img-blog.csdnimg.cn/20201025190837795.png]
+
 
 # 4 请配合博客食用
 
